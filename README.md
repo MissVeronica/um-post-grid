@@ -24,6 +24,6 @@ https://raw.githubusercontent.com/MissVeronica/um-post-grid/refs/heads/main/post
 
 Create the folders if non existent.
 
-Verify with UM Settings -> Advanced -> Override templates that UM is locating the template at .../ultimate-member/profile/posts.php
+Verify correct installation with UM Settings -> Advanced -> Override templates that UM is locating the template at .../ultimate-member/profile/posts.php
 
 Read the UM guide about "Template structure & Overriding templates via a theme" https://docs.ultimatemember.com/article/1516-templates-map
