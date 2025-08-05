@@ -1,5 +1,5 @@
 # UM Post Grid
-Ultimate Member Custom template for "Post Grid" plugin integration.
+Ultimate Member Custom template for "Post Grid" plugin integration for the Profile page's Posts tab.
 ## UM Settings
 None
 ## Custom template activation
