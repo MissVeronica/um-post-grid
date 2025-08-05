@@ -5,15 +5,18 @@ None
 ## Custom template activation
 Install and activate the "Post Grid" plugin https://wordpress.org/plugins/post-grid/
 
-Create a "Post Grid" layout. An easy "Post Grid" setup guide by WPBeginner https://www.wpbeginner.com/plugins/how-to-display-your-wordpress-posts-in-a-grid-layout/#create-grid-layout-post-grid-plugin
+Create a "Post Grid" layout. An easy "Post Grid" setup guide by WPBeginner 
+https://www.wpbeginner.com/plugins/how-to-display-your-wordpress-posts-in-a-grid-layout/#create-grid-layout-post-grid-plugin
 
-Insert the "Post Grid" shortcode Id number into the Custom template script file with current value $post_grid_id = '6554';
+Insert the "Post Grid" shortcode Id number into the Custom template script file with current value <code>$post_grid_id = '6554';</code>
+## "Post Grid" integration changes
+Filter hook <code>post_grid_filter_query_args</code> for adding the <code>user_id</code> of the Profile page owner to the "Post Grid" database query.
 ## UM template update
 The "Post Grid" template is independent of UM and is not out of date if UM default template is being updated later.
 ## Reference
 "Post Grid" plugin homepage https://pickplugins.com/post-grid
 ## Installation
-Copy the posts.php script file and upload to your Active theme's folder .../ultimate-member/profile/
+Download the <code>posts.php</code> script file and upload the template file to your Active theme's folder .../ultimate-member/profile/
 
 Create the folders if non existent.
 
