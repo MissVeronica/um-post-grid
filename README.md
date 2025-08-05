@@ -8,6 +8,8 @@ Install and activate the "Post Grid" plugin https://wordpress.org/plugins/post-g
 Create a "Post Grid" layout. An easy "Post Grid" setup guide by WPBeginner https://www.wpbeginner.com/plugins/how-to-display-your-wordpress-posts-in-a-grid-layout/#create-grid-layout-post-grid-plugin
 
 Insert the "Post Grid" shortcode Id number into the Custom template script file with current value $post_grid_id = '6552';
+## UM template update
+The "Post Grid" template is independent of UM and is not out of date if UM default template is being updated later.
 ## Reference
 "Post Grid" plugin homepage https://pickplugins.com/post-grid
 ## Installation
