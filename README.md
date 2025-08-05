@@ -10,6 +10,6 @@ Create a "Post Grid" layout. An easy "Post Grid" setup guide by WPBeginner https
 Insert the "Post Grid" shortcode Id number into the Custom template script with current value $post_grid_id = '6552';
 
 ## Installation
-Copy the posts.php file and upload to your Active theme's .../ultimate-member/profile/ folder. Create the folders if non existent.
+Copy the posts.php script file and upload to your Active theme's .../ultimate-member/profile/ folder. Create the folders if non existent.
 
 Read about "Template structure & Overriding templates via a theme" https://docs.ultimatemember.com/article/1516-templates-map
