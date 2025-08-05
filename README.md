@@ -20,6 +20,6 @@ Download the <code>posts.php</code> script file and upload the template file to 
 
 Create the folders if non existent.
 
-Verify with UM Settings -> Advanced -> Override templates that UM is locating the template.
+Verify with UM Settings -> Advanced -> Override templates that UM is locating the template at .../ultimate-member/profile/posts.php
 
 Read the UM guide about "Template structure & Overriding templates via a theme" https://docs.ultimatemember.com/article/1516-templates-map
