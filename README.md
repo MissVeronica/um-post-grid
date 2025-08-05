@@ -16,7 +16,7 @@ The "Post Grid" template is independent of UM and is not out of date if UM defau
 ## Reference
 "Post Grid" plugin homepage https://pickplugins.com/post-grid
 ## Installation
-Download the <code>posts.php</code> script file and upload the template file to your Active theme's folder .../ultimate-member/profile/
+Download the <code>posts.php</code> script file from this link and upload the template file to your Active theme's folder .../ultimate-member/profile/posts.php
 
 https://raw.githubusercontent.com/MissVeronica/um-post-grid/refs/heads/main/posts.php
 
