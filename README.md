@@ -12,4 +12,4 @@ Insert the "Post Grid" shortcode Id number into the Custom template script with 
 ## Installation
 Copy the posts.php script file and upload to your Active theme's .../ultimate-member/profile/ folder. Create the folders if non existent.
 
-Read about "Template structure & Overriding templates via a theme" https://docs.ultimatemember.com/article/1516-templates-map
+Read the UM guide about "Template structure & Overriding templates via a theme" https://docs.ultimatemember.com/article/1516-templates-map
