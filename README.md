@@ -26,4 +26,6 @@ Create the folders if non existent.
 
 Verify correct installation with UM Settings -> Advanced -> Override templates that UM is locating the template at .../ultimate-member/profile/posts.php
 
+If you don't find the Override templates tag the template file <code>posts.php</code> is either not uploaded or uploaded to the wrong folder/wrong file name..
+
 Read the UM guide about "Template structure & Overriding templates via a theme" https://docs.ultimatemember.com/article/1516-templates-map
