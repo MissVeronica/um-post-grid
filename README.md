@@ -13,6 +13,8 @@ The "Post Grid" template is independent of UM and is not out of date if UM defau
 ## Reference
 "Post Grid" plugin homepage https://pickplugins.com/post-grid
 ## Installation
-Copy the posts.php script file and upload to your Active theme's .../ultimate-member/profile/ folder. Create the folders if non existent.
+Copy the posts.php script file and upload to your Active theme's folder .../ultimate-member/profile/
+
+Create the folders if non existent.
 
 Read the UM guide about "Template structure & Overriding templates via a theme" https://docs.ultimatemember.com/article/1516-templates-map
