@@ -18,6 +18,8 @@ The "Post Grid" template is independent of UM and is not out of date if UM defau
 ## Installation
 Download the <code>posts.php</code> script file and upload the template file to your Active theme's folder .../ultimate-member/profile/
 
+https://raw.githubusercontent.com/MissVeronica/um-post-grid/refs/heads/main/posts.php
+
 Create the folders if non existent.
 
 Verify with UM Settings -> Advanced -> Override templates that UM is locating the template at .../ultimate-member/profile/posts.php
