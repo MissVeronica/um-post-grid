@@ -22,7 +22,7 @@ Download the <code>posts.php</code> script file from this link and upload the te
 
 .../wp-content/themes/{active theme}/ultimate-member/profile/posts.php
 
-https://raw.githubusercontent.com/MissVeronica/um-post-grid/refs/heads/main/posts.php
+Link: https://raw.githubusercontent.com/MissVeronica/um-post-grid/refs/heads/main/posts.php
 
 Create the folders if non existent.
 
