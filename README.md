@@ -27,7 +27,7 @@ Link: https://raw.githubusercontent.com/MissVeronica/um-post-grid/refs/heads/mai
 
 Create the folders ( ultimate-member, profile ) with your filemanager or FTP client if non existent.
 ### Verify installation
-Verify correct installation with UM Settings -> Advanced -> Override templates that UM is locating the template at .../ultimate-member/profile/posts.php
+Verify correct installation with "UM Settings -> Advanced -> Override templates" that UM is locating the template at .../ultimate-member/profile/posts.php
 
-If you don't find the 'Override templates' tag the template file <code>posts.php</code> is either not uploaded or uploaded to the wrong folder/wrong file name.
+If you don't find the 'Override templates' tab the template file <code>posts.php</code> is either not uploaded or uploaded to the wrong folder/wrong file name.
 
