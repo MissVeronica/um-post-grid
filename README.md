@@ -21,11 +21,11 @@ Read the UM guide about "Template structure & Overriding templates via a theme" 
 ### Download template
 Download the <code>posts.php</code> script file from this link and upload the template file to your Active theme's folder 
 
-.../wp-content/themes/{active theme}/ultimate-member/profile/posts.php
+Active theme's folder: .../wp-content/themes/{active theme}/ultimate-member/profile/posts.php
 
 Link: https://raw.githubusercontent.com/MissVeronica/um-post-grid/refs/heads/main/posts.php
 
-Create the folders with your filemanager or FTP client if non existent.
+Create the folders ( ultimate-member, profile ) with your filemanager or FTP client if non existent.
 ### Verify installation
 Verify correct installation with UM Settings -> Advanced -> Override templates that UM is locating the template at .../ultimate-member/profile/posts.php
 
