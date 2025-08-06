@@ -16,6 +16,8 @@ The "Post Grid" template is independent of UM and is not out of date if UM defau
 ## Reference
 "Post Grid" plugin homepage https://pickplugins.com/post-grid
 ## Installation
+Read the UM guide about "Template structure & Overriding templates via a theme" https://docs.ultimatemember.com/article/1516-templates-map
+
 Download the <code>posts.php</code> script file from this link and upload the template file to your Active theme's folder 
 
 .../wp-content/themes/{active theme}/ultimate-member/profile/posts.php
@@ -28,4 +30,3 @@ Verify correct installation with UM Settings -> Advanced -> Override templates t
 
 If you don't find the 'Override templates' tag the template file <code>posts.php</code> is either not uploaded or uploaded to the wrong folder/wrong file name.
 
-Read the UM guide about "Template structure & Overriding templates via a theme" https://docs.ultimatemember.com/article/1516-templates-map
