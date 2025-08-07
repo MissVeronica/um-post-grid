@@ -30,5 +30,7 @@ Filter hook <code>post_grid_filter_query_args</code> for adding the <code>user_i
 The "Post Grid" template is independent of UM and is not out of date if UM default template is being updated later.
 ## Reference
 "Post Grid" plugin homepage https://pickplugins.com/post-grid
+## Updates
+None
 
 
