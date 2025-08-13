@@ -40,6 +40,6 @@ https://wordpress.org/plugins/code-snippets/
 ## Reference
 "Post Grid" plugin homepage https://pickplugins.com/post-grid
 ## Updates
-Addition of "Posts Counter Menu Notifier" code snippet, August 13, 2015
+Addition of "Posts Counter Menu Notifier" code snippet, August 13, 2025
 
 
