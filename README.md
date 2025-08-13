@@ -28,9 +28,18 @@ Insert the "Post Grid" shortcode Id number into the Custom template script file 
 Filter hook <code>post_grid_filter_query_args</code> for adding the <code>user_id</code> of the Profile page owner to the "Post Grid" database query.
 ## UM template update
 The "Post Grid" template is independent of UM and is not out of date if UM default template is being updated later.
+## Posts Counter Menu Notifier
+A small red Notifier circle in the upper right corner of the Posts Menu tab with the number of Posts made by this User.
+
+Code snippet https://raw.githubusercontent.com/MissVeronica/um-post-grid/refs/heads/main/codesnippet.php
+
+You install the code snippet by adding it
+to your active theme’s <code>functions.php</code> file
+or use the “Code Snippets” Plugin 
+https://wordpress.org/plugins/code-snippets/
 ## Reference
 "Post Grid" plugin homepage https://pickplugins.com/post-grid
 ## Updates
-None
+Addition of "Posts Counter Menu Notifier" code snippet, August 13, 2015
 
 
