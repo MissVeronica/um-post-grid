@@ -41,5 +41,6 @@ https://wordpress.org/plugins/code-snippets/
 "Post Grid" plugin homepage https://pickplugins.com/post-grid
 ## Updates
 Addition of "Posts Counter Menu Notifier" code snippet, August 13, 2025
+Version 1.0.1 August 22, 2025 Setting template Version to 9.9.9 to avoid outdated template by UM
 
 
