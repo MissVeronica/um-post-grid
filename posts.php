@@ -7,9 +7,11 @@
  *
  * Page: "Profile"
  *
- * @version 2.6.1
+ * @version 9.9.9
  *
  * Source https://github.com/MissVeronica/um-post-grid
+ * Version 1.0.0 August 05, 2025
+ * Version 1.0.1 August 22, 2025 Setting template Version to 9.9.9 to avoid outdated template by UM
  *
  */
 
